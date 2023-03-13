@@ -1,0 +1,442 @@
+TCGA-WQ-AB4B-01	Alcohol consumption|Non-Alcoholic Fatty Liver Disease|Other
+TCGA-DD-A4NI-01	Alcohol consumption|Non-Alcoholic Fatty Liver Disease
+TCGA-XT-AASU-01	NA
+TCGA-CC-A7II-01	Alcohol consumption
+TCGA-KR-A7K7-01	No History of Primary Risk Factors
+TCGA-UB-AA0V-01	Hemochromatosis
+TCGA-DD-AAEA-01	Alcohol consumption|Hepatitis B
+TCGA-SC-A6LR-01	NA
+TCGA-DD-AACT-01	Hepatitis B
+TCGA-DD-AAD5-01	Alcohol consumption|Hepatitis B
+TCGA-LK-A4NZ-01	NA
+TCGA-CC-A3MC-01	Alcohol consumption
+TCGA-2Y-A9H2-01	Alcohol consumption
+TCGA-DD-A1EH-01	Hepatitis B
+TCGA-BC-A10U-01	Alcohol consumption
+TCGA-DD-AADU-01	Alcohol consumption
+TCGA-DD-AAE6-01	NA
+TCGA-TS-A8AF-01	NA
+TCGA-UB-A7MC-01	Alcohol consumption|Hepatitis B
+TCGA-GJ-A3OU-01	Alcohol consumption|Non-Alcoholic Fatty Liver Disease|Other
+TCGA-DD-AAVZ-01	Hepatitis B
+TCGA-DD-AACI-01	NA
+TCGA-LG-A6GG-01	Other
+TCGA-RC-A6M5-01	No History of Primary Risk Factors
+TCGA-MQ-A4LI-01	NA
+TCGA-CC-5264-01	NA
+TCGA-G3-A25T-01	Hepatitis C
+TCGA-SC-AA5Z-01	NA
+TCGA-LK-A4NY-01	NA
+TCGA-2Y-A9H3-01	Alcohol consumption|Non-Alcoholic Fatty Liver Disease
+TCGA-BD-A3ER-01	Hemochromatosis
+TCGA-CC-A8HV-01	No History of Primary Risk Factors
+TCGA-DD-AADV-01	Alcohol consumption|Hepatitis B
+TCGA-DD-AAE7-01	Alcohol consumption|Hepatitis B
+TCGA-WX-AA47-01	No History of Primary Risk Factors
+TCGA-DD-AACJ-01	NA
+TCGA-CC-A3M9-01	Alcohol consumption
+TCGA-DD-A3A3-01	No History of Primary Risk Factors
+TCGA-RC-A6M6-01	Alcohol consumption
+TCGA-DD-A115-01	Alcohol consumption
+TCGA-DD-A4NJ-01	Non-Alcoholic Fatty Liver Disease
+TCGA-DD-AADK-01	Hepatitis B
+TCGA-BW-A5NP-01	Hepatitis B
+TCGA-LK-A4O0-01	NA
+TCGA-GJ-A9DB-01	No History of Primary Risk Factors
+TCGA-3H-AB3S-01	NA
+TCGA-SC-A6LQ-01	NA
+TCGA-TS-A7P8-01	NA
+TCGA-UB-AA0U-01	Non-Alcoholic Fatty Liver Disease
+TCGA-CC-A9FV-01	Alcohol consumption
+TCGA-DD-AAVP-01	Hepatitis B
+TCGA-DD-AAW1-01	No History of Primary Risk Factors
+TCGA-UD-AAC7-01	NA
+TCGA-FV-A496-01	No History of Primary Risk Factors
+TCGA-DD-A114-01	Hepatitis C
+TCGA-DD-A1EG-01	Alcohol consumption|Non-Alcoholic Fatty Liver Disease
+TCGA-BC-A10T-01	No History of Primary Risk Factors
+TCGA-DD-AADL-01	Alcohol consumption|Hepatitis B
+TCGA-CC-A8HT-01	Alcohol consumption
+TCGA-G3-A3CJ-01	Hepatitis C
+TCGA-BW-A5NO-01	Hepatitis C
+TCGA-UB-A7MB-01	No History of Primary Risk Factors
+TCGA-3H-AB3T-01	NA
+TCGA-ED-A627-01	Alcohol consumption
+TCGA-DD-AADA-01	Hepatitis B
+TCGA-UD-AABY-01	NA
+TCGA-G3-A25U-01	Hepatitis B
+TCGA-RC-A6M4-01	No History of Primary Risk Factors
+TCGA-CC-A9FW-01	Alcohol consumption
+TCGA-DD-AAVQ-01	Hepatitis B
+TCGA-DD-AAW2-01	Non-Alcoholic Fatty Liver Disease
+TCGA-G3-A7M9-01	Hemochromatosis
+TCGA-QA-A7B7-01	Hepatitis B
+TCGA-DD-A4NH-01	Alcohol consumption
+TCGA-5R-AAAM-01	No History of Primary Risk Factors
+TCGA-CC-A7IH-01	Alcohol consumption
+TCGA-YA-A8S7-01	Hepatitis C
+TCGA-G3-AAUZ-01	Hepatitis B|Non-Alcoholic Fatty Liver Disease
+TCGA-K7-A6G5-01	Alcohol consumption|Hepatitis B|Hepatitis C|Hemochromatosis
+TCGA-KR-A7K8-01	No History of Primary Risk Factors
+TCGA-DD-AAEB-01	Alcohol consumption|Hepatitis B
+TCGA-DD-AACU-01	Hepatitis B
+TCGA-DD-AAD6-01	Hepatitis B
+TCGA-ZP-A9CV-01	Alcohol consumption|Hepatitis C
+TCGA-TS-A7OY-01	NA
+TCGA-DD-A3A4-01	Other
+TCGA-G3-A25V-01	Alcohol consumption
+TCGA-G3-AAV0-01	Hepatitis B
+TCGA-G3-A6UC-01	Alcohol consumption
+TCGA-CC-A7IG-01	Alcohol consumption
+TCGA-RC-A7SK-01	Hepatitis C
+TCGA-DD-A73A-01	Alcohol consumption
+TCGA-ED-A97K-01	Alcohol consumption
+TCGA-DD-A4NS-01	Alcohol consumption
+TCGA-DD-AACV-01	Alcohol consumption
+TCGA-UD-AAC6-01	NA
+TCGA-DD-A3A5-01	No History of Primary Risk Factors
+TCGA-G3-A3CK-01	Hepatitis B
+TCGA-DD-A1EF-01	No History of Primary Risk Factors
+TCGA-2Y-A9GS-01	Alcohol consumption
+TCGA-2Y-A9H4-01	Alcohol consumption|Hepatitis B
+TCGA-DD-AADW-01	Hepatitis B
+TCGA-DD-AAE8-01	Hepatitis B
+TCGA-BC-A10S-01	Alcohol consumption
+TCGA-CC-A8HU-01	No History of Primary Risk Factors
+TCGA-ZS-A9CG-01	NA
+TCGA-DD-AACK-01	Hepatitis B
+TCGA-UD-AABZ-01	NA
+TCGA-UB-A7MA-01	No History of Primary Risk Factors
+TCGA-4R-AA8I-01	Non-Alcoholic Fatty Liver Disease
+TCGA-MI-A75G-01	Alcohol consumption|Hepatitis C
+TCGA-LK-A4NW-01	NA
+TCGA-G3-AAV2-01	Alcohol consumption|Hepatitis C
+TCGA-EP-A2KB-01	Hepatitis C
+TCGA-ED-A8O6-01	No History of Primary Risk Factors
+TCGA-ZS-A9CF-01	Hemochromatosis
+TCGA-ZS-A9CF-02	Hemochromatosis
+TCGA-RC-A7S9-01	Hepatitis B
+TCGA-2Y-A9GT-01	Alcohol consumption|Hepatitis B|Hepatitis C
+TCGA-2Y-A9H5-01	Alcohol consumption|Hepatitis C
+TCGA-DD-A4NQ-01	Hepatitis B|Other
+TCGA-UB-A7MF-01	Hepatitis B|Hepatitis C
+TCGA-DD-A118-01	NA
+TCGA-FV-A495-01	Hepatitis C
+TCGA-CC-A8HS-01	No History of Primary Risk Factors
+TCGA-DD-AACF-01	Hepatitis C
+TCGA-3H-AB3U-01	NA
+TCGA-DD-A73G-01	No History of Primary Risk Factors
+TCGA-G3-A3CI-01	Non-Alcoholic Fatty Liver Disease
+TCGA-FV-A4ZP-01	Alcohol consumption
+TCGA-WX-AA44-01	Non-Alcoholic Fatty Liver Disease
+TCGA-TS-A7OU-01	NA
+TCGA-FV-A2QR-01	Other
+TCGA-DD-A11C-01	NA
+TCGA-DD-A3A0-01	No History of Primary Risk Factors
+TCGA-DD-AACQ-01	Hepatitis B
+TCGA-DD-AAD2-01	Hepatitis B
+TCGA-CC-A1HT-01	No History of Primary Risk Factors
+TCGA-DD-AAVR-01	Hepatitis B
+TCGA-DD-AAW3-01	No History of Primary Risk Factors
+TCGA-EP-A12J-01	Hepatitis C
+TCGA-DD-AACG-01	Hepatitis B
+TCGA-DD-A1EE-01	Hepatitis C
+TCGA-DD-A4NG-01	Alcohol consumption
+TCGA-FV-A4ZQ-01	Hepatitis C
+TCGA-3H-AB3K-01	NA
+TCGA-BC-A10R-01	No History of Primary Risk Factors
+TCGA-3U-A98D-01	NA
+TCGA-DD-A11B-01	Non-Alcoholic Fatty Liver Disease
+TCGA-ED-A459-01	NA
+TCGA-DD-AAD3-01	Alcohol consumption|Hepatitis B
+TCGA-BC-A69H-01	Alcohol consumption
+TCGA-DD-AAVS-01	Hepatitis B
+TCGA-CC-5261-01	NA
+TCGA-CC-A9FS-01	Alcohol consumption
+TCGA-CC-A3MA-01	Alcohol consumption
+TCGA-DD-AAEI-01	Hepatitis B
+TCGA-CC-A7IF-01	Alcohol consumption
+TCGA-XR-A8TC-01	Hepatitis B
+TCGA-G3-AAV1-01	Hepatitis B
+TCGA-DD-AADS-01	Alcohol consumption|Hepatitis C
+TCGA-DD-AAE4-01	Hepatitis B
+TCGA-EP-A2KA-01	No History of Primary Risk Factors
+TCGA-5C-A9VH-01	No History of Primary Risk Factors
+TCGA-DD-A4NR-01	Other
+TCGA-EP-A26S-01	Alcohol consumption
+TCGA-BD-A2L6-01	Alcohol consumption
+TCGA-UB-A7ME-01	Hepatitis B
+TCGA-FV-A23B-01	Hepatitis C
+TCGA-BC-A217-01	Alcohol consumption
+TCGA-CC-A3MB-01	No History of Primary Risk Factors
+TCGA-CC-A7IE-01	Alcohol consumption
+TCGA-XR-A8TD-01	No History of Primary Risk Factors
+TCGA-DD-A4NE-01	No History of Primary Risk Factors
+TCGA-DD-AADI-01	Hepatitis B
+TCGA-SH-A9CU-01	NA
+TCGA-CC-5263-01	No History of Primary Risk Factors
+TCGA-DD-A3A1-01	No History of Primary Risk Factors
+TCGA-TS-A7P7-01	NA
+TCGA-ZP-A9D4-01	No History of Primary Risk Factors
+TCGA-DD-AAEK-01	Hepatitis B
+TCGA-FV-A2QQ-01	Alcohol consumption
+TCGA-UD-AAC4-01	NA
+TCGA-RC-A7SB-01	Hepatitis B
+TCGA-MI-A75H-01	Hepatitis C
+TCGA-DD-A1ED-01	Alcohol consumption
+TCGA-DD-A4NP-01	No History of Primary Risk Factors
+TCGA-YS-A95B-01	NA
+TCGA-PD-A5DF-01	No History of Primary Risk Factors
+TCGA-KR-A7K0-01	Alcohol consumption|Hepatitis C
+TCGA-ZS-A9CE-01	NA
+TCGA-LK-A4O7-01	NA
+TCGA-BC-A10Q-01	No History of Primary Risk Factors
+TCGA-BC-A112-01	Alcohol consumption
+TCGA-DD-A1E9-01	Alcohol consumption
+TCGA-G3-AAV3-01	Alcohol consumption|Hepatitis C|Non-Alcoholic Fatty Liver Disease
+TCGA-2Y-A9HA-01	Alcohol consumption|Hepatitis C
+TCGA-2Y-A9GU-01	No History of Primary Risk Factors
+TCGA-2Y-A9H6-01	Alcohol consumption
+TCGA-5C-AAPD-01	Hepatitis B
+TCGA-YS-A95C-01	NA
+TCGA-ED-A7XP-01	No History of Primary Risk Factors
+TCGA-EP-A2KC-01	Hepatitis C
+TCGA-O8-A75V-01	Alcohol consumption|Hepatitis B|Hepatitis C
+TCGA-TS-A7PB-01	NA
+TCGA-BC-A216-01	No History of Primary Risk Factors
+TCGA-DD-A116-01	Hepatitis B
+TCGA-G3-A3CH-01	Hepatitis B
+TCGA-LK-A4O6-01	NA
+TCGA-ZS-A9CD-01	NA
+TCGA-DD-AADJ-01	NA
+TCGA-MI-A75I-01	Hepatitis C
+TCGA-TS-A8AI-01	NA
+TCGA-NI-A4U2-01	Alcohol consumption
+TCGA-2Y-A9HB-01	Alcohol consumption
+TCGA-5C-A9VG-01	Other
+TCGA-2Y-A9GV-01	Alcohol consumption
+TCGA-2Y-A9H7-01	No History of Primary Risk Factors
+TCGA-MQ-A4LP-01	NA
+TCGA-UB-A7MD-01	Alcohol consumption|Hepatitis C
+TCGA-G3-A25S-01	Alcohol consumption
+TCGA-CC-A9FU-01	Hepatitis B
+TCGA-DD-AACH-01	Hepatitis B
+TCGA-DD-A4NF-01	Hepatitis C
+TCGA-3H-AB3L-01	NA
+TCGA-ZN-A9VQ-01	NA
+TCGA-K7-A5RF-01	Hepatitis C
+TCGA-DD-A11A-01	Other
+TCGA-WX-AA46-01	No History of Primary Risk Factors
+TCGA-SH-A9CT-01	NA
+TCGA-ED-A8O5-01	No History of Primary Risk Factors
+TCGA-DD-A3A2-01	No History of Primary Risk Factors
+TCGA-CC-5262-01	No History of Primary Risk Factors
+TCGA-DD-AACS-01	Hepatitis B
+TCGA-DD-A3A8-01	No History of Primary Risk Factors
+TCGA-DD-A1EC-01	NA
+TCGA-LG-A9QD-01	No History of Primary Risk Factors
+TCGA-DD-AADP-01	Hepatitis B
+TCGA-DD-AAE1-01	Hepatitis B
+TCGA-3U-A98F-01	NA
+TCGA-ZP-A9D0-01	Non-Alcoholic Fatty Liver Disease
+TCGA-DD-AAVU-01	Hepatitis B
+TCGA-DD-AADE-01	Hepatitis B
+TCGA-TS-A8AV-01	NA
+TCGA-HP-A5MZ-01	No History of Primary Risk Factors
+TCGA-TS-A7P3-01	NA
+TCGA-EP-A3JL-01	Alcohol consumption
+TCGA-ZP-A9CZ-01	Hepatitis B
+TCGA-CC-5258-01	NA
+TCGA-DD-AAEG-01	No History of Primary Risk Factors
+TCGA-DD-AACY-01	Hepatitis B
+TCGA-XR-A8TE-01	No History of Primary Risk Factors
+TCGA-BC-4073-01	Hemochromatosis
+TCGA-DD-A4ND-01	No History of Primary Risk Factors
+TCGA-DD-A39W-01	No History of Primary Risk Factors
+TCGA-DD-AAC9-01	Hepatitis B
+TCGA-3H-AB3M-01	NA
+TCGA-FV-A3I1-01	Alcohol consumption
+TCGA-ED-A66Y-01	No History of Primary Risk Factors
+TCGA-RC-A7SF-01	Hepatitis C
+TCGA-G3-A7M5-01	Alcohol consumption
+TCGA-CC-A5UE-01	Alcohol consumption
+TCGA-ED-A7PX-01	No History of Primary Risk Factors
+TCGA-3K-AAZ8-01	Hepatitis C
+TCGA-DD-AACZ-01	NA
+TCGA-MI-A75E-01	Alcohol consumption|Hepatitis C
+TCGA-DD-A4NO-01	Hepatitis C|Other
+TCGA-XR-A8TF-01	Hepatitis B
+TCGA-DD-A39X-01	No History of Primary Risk Factors
+TCGA-WJ-A86L-01	No History of Primary Risk Factors
+TCGA-G3-AAV4-01	Hepatitis B
+TCGA-FV-A3R3-01	No History of Primary Risk Factors
+TCGA-K7-A5RG-01	Alcohol consumption|Hepatitis C
+TCGA-BC-A5W4-01	Alcohol consumption
+TCGA-BC-A10Z-01	No History of Primary Risk Factors
+TCGA-NI-A8LF-01	Alcohol consumption
+TCGA-DD-AA3A-01	No History of Primary Risk Factors
+TCGA-ED-A7XO-01	No History of Primary Risk Factors
+TCGA-DD-AACD-01	Hepatitis B
+TCGA-G3-A5SM-01	Alcohol consumption|Hepatitis C
+TCGA-DD-A3A9-01	Other
+TCGA-DD-A1EB-01	Other
+TCGA-G3-A3CG-01	Hepatitis C
+TCGA-LK-A4O5-01	NA
+TCGA-3U-A98G-01	NA
+TCGA-BC-A110-01	Alcohol consumption
+TCGA-DD-A73E-01	Alcohol consumption|Non-Alcoholic Fatty Liver Disease
+TCGA-DD-AACO-01	Hepatitis B
+TCGA-DD-AAD0-01	Hepatitis B
+TCGA-ZP-A9D1-01	Non-Alcoholic Fatty Liver Disease
+TCGA-KR-A7K2-01	Hepatitis C
+TCGA-2Y-A9GW-01	Alcohol consumption
+TCGA-2Y-A9H8-01	Alcohol consumption
+TCGA-G3-A25Z-01	Hepatitis B
+TCGA-DD-AAEH-01	NA
+TCGA-5R-AA1C-01	No History of Primary Risk Factors
+TCGA-BC-4072-01	No History of Primary Risk Factors
+TCGA-DD-AACE-01	Hepatitis B
+TCGA-G3-AAV6-01	No History of Primary Risk Factors
+TCGA-DD-A39V-01	No History of Primary Risk Factors
+TCGA-LK-A4O4-01	NA
+TCGA-DD-A73F-01	No History of Primary Risk Factors
+TCGA-DD-AACP-01	Alcohol consumption
+TCGA-DD-AAD1-01	Hepatitis B|Hepatitis C
+TCGA-FV-A3I0-01	No History of Primary Risk Factors
+TCGA-2Y-A9GX-01	Alcohol consumption
+TCGA-2Y-A9H9-01	Alcohol consumption|Hepatitis C
+TCGA-ED-A66X-01	Alcohol consumption
+TCGA-ED-A7PY-01	No History of Primary Risk Factors
+TCGA-DD-A11D-01	Non-Alcoholic Fatty Liver Disease
+TCGA-DD-AADQ-01	Alcohol consumption|Hepatitis B
+TCGA-DD-AAE2-01	Hepatitis B
+TCGA-BC-A3KG-01	Alcohol consumption
+TCGA-GJ-A6C0-01	No History of Primary Risk Factors
+TCGA-3U-A98E-01	NA
+TCGA-BC-A10Y-01	Alcohol consumption
+TCGA-DD-AADF-01	Hepatitis B
+TCGA-DD-AAVV-01	Hepatitis B
+TCGA-MQ-A4KX-01	NA
+TCGA-DD-A1EL-01	Hepatitis B
+TCGA-ED-A82E-01	No History of Primary Risk Factors
+TCGA-CC-5260-01	NA
+TCGA-UD-AAC1-01	NA
+TCGA-BC-A3KF-01	No History of Primary Risk Factors
+TCGA-DD-A1EA-01	Hepatitis B
+TCGA-CC-5259-01	No History of Primary Risk Factors
+TCGA-DD-AADR-01	Alcohol consumption|Hepatitis B
+TCGA-DD-AAE3-01	Alcohol consumption|Hepatitis B
+TCGA-DD-AADG-01	Alcohol consumption|Hepatitis B
+TCGA-2V-A95S-01	NA
+TCGA-DD-AAVW-01	Hepatitis B
+TCGA-ZP-A9D2-01	Hepatitis C
+TCGA-HP-A5N0-01	No History of Primary Risk Factors
+TCGA-XR-A8TG-01	Hepatitis C
+TCGA-DD-A4NN-01	No History of Primary Risk Factors
+TCGA-G3-AAV5-01	Alcohol consumption
+TCGA-K7-AAU7-01	Hepatitis C|Hemochromatosis
+TCGA-MR-A8JO-01	Alcohol consumption
+TCGA-3H-AB3O-01	NA
+TCGA-5R-AA1D-01	No History of Primary Risk Factors
+TCGA-ED-A7PZ-01	No History of Primary Risk Factors
+TCGA-G3-A5SL-01	Alcohol consumption
+TCGA-MR-A520-01	Other
+TCGA-BC-A69I-01	No History of Primary Risk Factors
+TCGA-DD-A119-01	Hepatitis B
+TCGA-BD-A3EP-01	No History of Primary Risk Factors
+TCGA-CC-A123-01	NA
+TCGA-DD-AACA-01	Hepatitis B
+TCGA-DD-AAED-01	Alcohol consumption|Hepatitis B
+TCGA-MQ-A4LV-01	NA
+TCGA-DD-AACA-02	Hepatitis B
+TCGA-DD-AAE9-01	Alcohol consumption|Hepatitis B
+TCGA-DD-A39Z-01	Alcohol consumption
+TCGA-DD-A4NA-01	No History of Primary Risk Factors
+TCGA-3U-A98I-01	NA
+TCGA-BC-A10X-01	No History of Primary Risk Factors
+TCGA-ES-A2HS-01	No History of Primary Risk Factors
+TCGA-DD-A1EK-01	Other
+TCGA-G3-A5SK-01	Hepatitis C
+TCGA-DD-AACL-01	Hepatitis C
+TCGA-G3-A7M8-01	Alcohol consumption
+TCGA-G3-A25W-01	No History of Primary Risk Factors
+TCGA-DD-A113-01	Other
+TCGA-TS-A7OZ-01	NA
+TCGA-DD-A4NL-01	Alcohol consumption|Other
+TCGA-G3-AAV7-01	Hepatitis B
+TCGA-DD-AADM-01	Alcohol consumption|Hepatitis B
+TCGA-ZN-A9VW-01	NA
+TCGA-UT-A97Y-01	NA
+TCGA-2Y-A9GY-01	No History of Primary Risk Factors
+TCGA-CC-A7IL-01	Alcohol consumption
+TCGA-DD-AADB-01	Hepatitis B
+TCGA-TS-A8AY-01	NA
+TCGA-DD-A3A6-01	No History of Primary Risk Factors
+TCGA-WQ-A9G7-01	No History of Primary Risk Factors
+TCGA-DD-AADN-01	Alcohol consumption|Hepatitis B
+TCGA-LK-A4O2-01	NA
+TCGA-CC-A7IK-01	Alcohol consumption
+TCGA-2Y-A9GZ-01	No History of Primary Risk Factors
+TCGA-DD-AADC-01	Hepatitis B
+TCGA-T1-A6J8-01	Alcohol consumption
+TCGA-2Y-A9H0-01	Alcohol consumption|Hepatitis B|Hepatitis C
+TCGA-DD-A1EJ-01	No History of Primary Risk Factors
+TCGA-SH-A7BC-01	NA
+TCGA-EP-A3RK-01	Alcohol consumption
+TCGA-DD-A4NB-01	No History of Primary Risk Factors
+TCGA-ED-A5KG-01	No History of Primary Risk Factors
+TCGA-DD-A73B-01	Alpha-1 Antitrypsin Deficiency|Other
+TCGA-3U-A98J-01	NA
+TCGA-BC-A10W-01	Hepatitis B
+TCGA-TS-A7P0-01	NA
+TCGA-RC-A6M3-01	NA
+TCGA-CC-A5UC-01	Alcohol consumption
+TCGA-G3-A7M7-01	Alcohol consumption
+TCGA-DD-AAVX-01	Hepatitis B
+TCGA-DD-AACW-01	Alcohol consumption|Hepatitis B
+TCGA-DD-AAD8-01	Hepatitis B|Hepatitis C
+TCGA-MI-A75C-01	Hepatitis C
+TCGA-2Y-A9H1-01	Alcohol consumption|Hepatitis C
+TCGA-SC-A6LN-01	NA
+TCGA-DD-AAVY-01	No History of Primary Risk Factors
+TCGA-DD-AACX-01	Alcohol consumption|Hepatitis B
+TCGA-MQ-A4LJ-01	NA
+TCGA-DD-A3A7-01	Alcohol consumption|Other
+TCGA-DD-AACB-01	Hepatitis B
+TCGA-ED-A4XI-01	No History of Primary Risk Factors
+TCGA-DD-AADY-01	Hepatitis B
+TCGA-LG-A9QC-01	No History of Primary Risk Factors
+TCGA-FV-A3R2-01	No History of Primary Risk Factors
+TCGA-DD-A73C-01	No History of Primary Risk Factors
+TCGA-3U-A98H-01	NA
+TCGA-ES-A2HT-01	Hepatitis C
+TCGA-DD-AACM-01	Hepatitis B
+TCGA-BC-A8YO-01	Alcohol consumption|Other
+TCGA-G3-A5SJ-01	Alcohol consumption|Hepatitis C
+TCGA-G3-A25X-01	Hepatitis B
+TCGA-RG-A7D4-01	Hepatitis C
+TCGA-DD-A1EI-01	Hepatitis B
+TCGA-MQ-A6BS-01	NA
+TCGA-DD-A4NK-01	No History of Primary Risk Factors
+TCGA-ZP-A9CY-01	Non-Alcoholic Fatty Liver Disease
+TCGA-DD-AACC-01	Hepatitis B
+TCGA-DD-A73D-01	Hepatitis C
+TCGA-ZN-A9VV-01	NA
+TCGA-DD-AAC8-01	Hepatitis B
+TCGA-BW-A5NQ-01	Alcohol consumption|Other
+TCGA-DD-AACN-01	Hepatitis B
+TCGA-TS-A7P1-01	NA
+TCGA-DD-AAW0-01	Hepatitis B
+TCGA-G3-A5SI-01	Hepatitis C
+TCGA-G3-A7M6-01	Hepatitis C
+TCGA-CC-A5UD-01	Alcohol consumption
+TCGA-G3-A25Y-01	Hepatitis B
+TCGA-DD-AAEE-01	Hepatitis B
+TCGA-DD-AADO-01	Alcohol consumption|Hepatitis B
+TCGA-DD-AAE0-01	Hepatitis B
+TCGA-DD-A39Y-01	No History of Primary Risk Factors
+TCGA-DD-A4NV-01	Non-Alcoholic Fatty Liver Disease|Other
+TCGA-CC-A7IJ-01	Alcohol consumption
+TCGA-SC-A6LM-01	NA
+TCGA-DD-AADD-01	Hepatitis B
+TCGA-RC-A7SH-01	Hepatitis B
